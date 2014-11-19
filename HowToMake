@@ -1,0 +1,10 @@
+
+
+1.env   arm/mtk5505/ics4.0.4
+  git clone roy, then copy to android direct /mt5505/src/Project/vm_linux/android/ics-4.x/development 
+2.cd /mt5505/src/Project
+  source setenv.sh
+  cd android/ics-4.x/development/roy
+  mm
+
+2014/11/19
