@@ -6,5 +6,10 @@
   source setenv.sh
   cd android/ics-4.x/development/roy
   mm
+  push libZPClient.so and libZPService.so to /system/lib
+  push zpserver and zpclient to /data/
+  chmod -R 777 /data/zp*
+  ./data/zpserver
+  at another ssh ./data/zpclient
 
 2014/11/19
