@@ -2,4 +2,4 @@ Roy
 ===
 
 this is the first test project,
-some domes debug android binder. 
+some demoes debug android binder. 
