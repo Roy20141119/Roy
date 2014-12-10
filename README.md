@@ -7,4 +7,7 @@ some demoes debug android binder.
 modified the github account and password. 2014/12/10
 
 Roy20141120
+
+modified user.name to Roy20141120
+
  
